@@ -11,3 +11,4 @@ It is a document scanner application that uses the camera of your smartphone to 
   - OpenCV
   - Tkinter
   - Scikit-image
+  - PIL
