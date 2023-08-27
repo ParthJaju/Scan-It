@@ -8,5 +8,6 @@ It is a document scanner application that uses the camera of your smartphone to 
 
 ## Technologies Used
 - Python
-- OpenCV
-- Tkinter
+  - OpenCV
+  - Tkinter
+  - Scikit-image
